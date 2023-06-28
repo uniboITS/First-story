@@ -133,10 +133,10 @@ footer {
 <body>
 
 <div class="topnav">
-  <a href="https://giuliam2.github.io/6-Girls-on-a-stage-home/">Home</a>
-  <a class="active" href="https://bella2402.github.io/Theatres-in-the-UK-and-Classical-Music/"> FIRST STORY </a>
-  <a href="https://giuliam2.github.io/Exploring-the-rock-music-genre/">SECOND STORY</a>
-  <a href="https://giuliam2.github.io/Reports/">Our Reports</a>
+  <a href="https://uniboITS.github.io/Progetto-ITS/">Home</a>
+  <a class="active" href="https://uniboITS.github.io/First-story/">Musical artists</a>
+  <a href="https://uniboITS.github.io/Second-story/">Rock Music</a>
+  <a href="https://uniboITS.github.io/Our-Reports/">Our Reports</a>
 </div>
 
 
@@ -158,7 +158,7 @@ footer {
   </div>
 
   <div class="white-box">
-    <p style="font-family: 'Times New Roman', serif;" >TESTO TESTO ANCORA TESTO. QUI IL LINK ALLA STORIA SU MELODY <a href="https://melody-data.github.io/stories/published_stories/story_1685701970.977932.html"><span style="color:black"><b>click here</b></span></a> to check out our story on Melody! </p>
+    <p style="font-family: 'Times New Roman', serif;" >TESTO TESTO ANCORA TESTO. QUI IL LINK ALLA STORIA SU MELODY (METTETELO ANCHE SOTTO) <a href="https://melody-data.github.io/stories/published_stories/story_1685701970.977932.html"><span style="color:black"><b>click here</b></span></a> to check out our story on Melody! </p>
   </div>
 
   <div class="section">
