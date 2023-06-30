@@ -5,9 +5,17 @@
   
 <style>
 body {
-  margin: 35px;
+  margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   background-color: #eed9bd;
+  padding: 20px;
+}
+
+.title-box {
+      background-color: #712f26;
+      padding: 10px;
+      margin-bottom: 20px;
+      text-align: center;
 }
 
 .topnav {
@@ -73,22 +81,7 @@ footer {
 </style>
 
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
-
-    body {
-      font-family: Arial, sans-serif;
-      background-color: white;
-      color: #333;
-      margin: 0;
-      padding: 20px;
-    }
-
-    .title-box {
-      background-color: #990a00;
-      padding: 10px;
-      margin-bottom: 20px;
-      text-align: center;
-    }
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap')
 
     h1 {
       color: #FFF;
@@ -98,7 +91,7 @@ footer {
     }
 
     h2 {
-      color: #990a00;
+      color: #712f26;
       font-family: 'Playfair Display', serif;
       font-size: 20px;
       margin-top: 10px;
@@ -201,7 +194,7 @@ footer {
 <br>
  
 <footer>
-  <p>Authors: Greta Roana, Silvia Bellavite</p>
+  <p align="center">Authors: Greta Roana, Silvia Bellavite</p>
 </footer>
 
 </body>
