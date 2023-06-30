@@ -172,13 +172,9 @@ footer {
 
   <div class="article">
     <div class="article-text">
-      <p>The world of music is filled with talented artists, each possessing their unique style and impact. Emilia-Romagna stands as a brilliant example of this artistic abundance. That's precisely why we have decided to delve into the realm of Wikipedia, aiming to uncover insights into the popularity of musical artists born in the Emilia-Romagna region of Italy. As a renowned and ever-evolving platform for information dissemination, Wikipedia provides a rich source for evaluating the reach and influence of these artists. By analyzing the content and metrics associated with their Wikipedia pages, our objective is to gain a better understanding of the correlation between online mentions and the popularity of these talented individuals.
-</p>
-<p1>To set the stage for a deeper analysis of their popularity, we first take a glimpse into the list of notable musical artists hailing from Emilia-Romagna. This list is filled with names associated with a wide variety of occupations and different aspects of the music industry. In fact, among these prominent figures, we not only find Italian singers but also non-singer celebrities and personalities, such as music producers, composers, and musicians, among others.
-Moreover, to obtain a more comprehensive evaluation of the popularity of these esteemed musical artists, our research extends beyond Emilia-Romagna to encompass other Italian singers. This allows us to make meaningful comparisons and draw broader conclusions.
-</p1>
-<p2>In summary, through our investigation on Melody, we invite you to explore the popularity of musical artists, leveraging the wealth of information available on Wikipedia. In particular, by examining Wikipedia page lengths, mentions, and even festival participations, we gain valuable insights into the impact and recognition of these artists.
-</p2>
+      <p>The world of music is filled with talented artists, each possessing their unique style and impact. Emilia-Romagna stands as a brilliant example of this artistic abundance. That's precisely why we have decided to delve into the realm of Wikipedia, aiming to uncover insights into the popularity of musical artists born in the Emilia-Romagna region of Italy. As a renowned and ever-evolving platform for information dissemination, Wikipedia provides a rich source for evaluating the reach and influence of these artists. By analyzing the content and metrics associated with their Wikipedia pages, our objective is to gain a better understanding of the correlation between online mentions and the popularity of these talented individuals.</p>
+<p>To set the stage for a deeper analysis of their popularity, we first take a glimpse into the list of notable musical artists hailing from Emilia-Romagna. This list is filled with names associated with a wide variety of occupations and different aspects of the music industry. In fact, among these prominent figures, we not only find Italian singers but also non-singer celebrities and personalities, such as music producers, composers, and musicians, among others.</br>Moreover, to obtain a more comprehensive evaluation of the popularity of these esteemed musical artists, our research extends beyond Emilia-Romagna to encompass other Italian singers. This allows us to make meaningful comparisons and draw broader conclusions.</p>
+<p>In summary, through our investigation on Melody, we invite you to explore the popularity of musical artists, leveraging the wealth of information available on Wikipedia. In particular, by examining Wikipedia page lengths, mentions, and even festival participations, we gain valuable insights into the impact and recognition of these artists.</p>
     </div>
     <div class="article-image">
       <img src="https://www.artdictionmagazine.com/wp-content/uploads/2020/02/AdobeStock_287272673-website.jpg" alt="Article Image">
@@ -186,7 +182,8 @@ Moreover, to obtain a more comprehensive evaluation of the popularity of these e
   </div>
 
   <div class="white-box">
-    <p style="font-family: 'Times New Roman', serif;" >TESTO TESTO ANCORA TESTO. QUI IL LINK ALLA STORIA SU MELODY (METTETELO ANCHE SOTTO) <a href="https://melody-data.github.io/stories/published_stories/story_1688112792.006553.html"><span style="color:black"><b>click here</b></span></a> to check out our story on Melody! </p>
+    <p style="font-family: 'Times New Roman', serif;" >TESTO TESTO ANCORA TESTO. 
+      <a href="https://melody-data.github.io/stories/published_stories/story_1688112792.006553.html"><span style="color:black"><b>Click here</b></span></a> to check out our story on Melody! </p>
   </div>
 
   <div class="section">
