@@ -109,7 +109,7 @@ footer {
 
     .article-text {
       flex: 1;
-      font-family: 'Times New Roman', serif;
+      font-family: 'Playfair Display', serif;
     }
 
     .article-image {
