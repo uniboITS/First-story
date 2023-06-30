@@ -5,36 +5,69 @@
   
 <style>
 body {
-  margin: 0;
+  margin: 35px;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: #eed9bd;
 }
 
- a {
-        color: #fff;
-        text-decoration: none;
-    }
-  
 .topnav {
   overflow: hidden;
-  background-color: #;
+  background-color: #712f26;
 }
 
 .topnav a {
   float: left;
-  color: black;
+  color: #;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  background-color: #fff;
+  border: 1px solid #ccc; /* Added border style */
+  border-radius: 5px; /* Added border radius */
+  transition: background-color 0.3s ease; /* Add transition effect */
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #f6dc9d;
   color: black;
 }
 
 .topnav a.active {
-  background-color: #990a00;
+  background-color: #712f26;
+  color: white;
+}
+
+h1 {
+  color: #FFF;
+  font-family: 'Playfair Display', serif;
+  font-size: 36px;
+  margin: 0;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.top-left {
+  position: absolute;
+  top: 90px;
+  left: 110px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+footer {
+  background-color: #712f26;
+  padding: 10px;
+  text-align: left;
   color: white;
 }
 </style>
@@ -121,15 +154,6 @@ body {
       padding: 20px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
-
-/* Style the footer */
-footer {
-  background-color: #990a00;
-  padding: 10px;
-  text-align: left;
-  color: white;
-}
-
   </style>
   
 </head>
