@@ -182,8 +182,11 @@ footer {
   </div>
 
   <div class="white-box">
-    <p style="font-family: 'Times New Roman', serif;" >TESTO TESTO ANCORA TESTO. 
-      <a href="https://melody-data.github.io/stories/published_stories/story_1688112792.006553.html"><span style="color:black"><b>Click here</b></span></a> to check out our story on Melody! </p>
+    <p style="font-family: 'Times New Roman', serif;" ><i>So how do we determine an artist’s grade of popularity through the analysis of objective Wikipedia data?</i></p>
+<p>One indicator of popularity can certainly be the length of their Wikipedia page. The DBpedia database conveniently provides us with the character count of each artist's corresponding Wikipedia page. By comparing these page lengths, we can gain insights into the level of interest and depth of information available to readers.</p>
+<p>In our Melody story, you will discover the identity of the musical artist who emerges with the longest and most comprehensive Wikipedia page, surpassing others by a significant margin. It's fascinating to note that the length of their page is more than double that of the second artist on the list! Will you be surprised by their name, or have you already guessed it?</p>
+<p>Next, we explore another metric to gauge artists' popularity: the number of mentions they receive on Wikipedia. These mentions, often accompanied by hyperlinks, can indicate the extent of their influence and cultural significance. In our Melody story, you can find a ranking of the top 10 artists based on this measure, shedding light on those with the highest number of references on Wikipedia. Interestingly, the most cited Emilian musical artist on other Wikipedia pages is not the same as the one who holds the title for the longest Wikipedia page.</p>
+<p>What else are you waiting for? <a href="https://melody-data.github.io/stories/published_stories/story_1688112792.006553.html"><span style="color:black"><b>Click here</b></span></a> to check out our story on Melody!</p>
   </div>
 
   <div class="section">
