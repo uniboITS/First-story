@@ -6,9 +6,10 @@
 <style>
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial;
   background-color: #eed9bd;
-  padding: 20px;
+  padding: 0;
+  font-size: 18px;
 }
 
 .title-box {
@@ -30,6 +31,7 @@ body {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  font-family: Arial, sans-serif;
   background-color: #fff;
   border: 1px solid #ccc; /* Added border style */
   border-radius: 5px; /* Added border radius */
@@ -47,12 +49,12 @@ body {
 }
 
 h1 {
-  color: #FFF;
-  font-family: 'Playfair Display', serif;
-  font-size: 36px;
-  margin: 0;
-}
-
+      color: #eed9bd;
+      font-family: 'Playfair Display', serif;
+      font-size: 36px;
+      margin: 0;
+    }
+    
 .container {
   position: relative;
   text-align: center;
@@ -79,76 +81,72 @@ footer {
   color: white;
 }
 </style>
-
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap')
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+   h2 {
+    color: #712f26;
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 300px;
+    margin-right: 200px;
+    font-style: Arial;
+  }
 
-    h1 {
-      color: #FFF;
-      font-family: 'Playfair Display', serif;
-      font-size: 36px;
-      margin: 0;
-    }
+  .article {
+    display: flex;
+    align-items: center;
+    border: 3px solid #DDD;
+    padding: 30px;
+    margin-bottom: 40px;
+    background-color: #fff;
+    margin-left: 300px;
+    margin-right: 200px;
+  }
 
-    h2 {
-      color: #712f26;
-      font-family: 'Playfair Display', serif;
-      font-size: 20px;
-      margin-top: 10px;
-      font-style: italic;
-    }
+  .article-text {
+    flex: 1;
+    font-family:  Arial, serif;
+    font-size: 24px;
+  }
 
-    .article {
-      display: flex;
-      align-items: center;
-      border: 1px solid #DDD;
-      padding: 20px;
-      margin-bottom: 20px;
-      background-color: #FFF;
-    }
-
-    .article-text {
-      flex: 1;
-      font-family: 'Playfair Display', serif;
-    }
-
-    .article-image {
-      flex: 1;
-      margin-left: 20px;
-    }
+  .article-image {
+    flex: 1;
+    margin-left: 20px;
+  }
 
     .section {
       margin-top: 40px;
+      margin-left: 330px;
+      margin-right: 200px;
     }
 
     .section-image {
       display: flex;
       justify-content: center;
+      margin-left: 330px;
+      margin-right: 200px;
       margin-top: 22px;
-      border: 1px solid #DDD;
+      border: 3px solid #DDD;
       padding: 8px;
-      background-color: #FFF;
+      background-color:#fff;
     }
 
     .section-image img {
       flex: 1;
-      margin-right: 10px;
+      margin-left: 330px;
+      margin-right: 200px;
     }
 
     .small-italic {
       font-style: italic;
-      font-size: 14px;
+      font-size: 20px;
+      margin-left: 300px;
+      margin-right: 200px;
       font-family: 'Times New Roman', serif;
     }
 
-    .white-box {
-      background-color: #FFF;
-      border: 1px solid #DDD;
-      padding: 20px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    }
-  </style>
-  
+</style>
 </head>
 
 
@@ -176,17 +174,16 @@ footer {
 <p>To set the stage for a deeper analysis of their popularity, we first take a glimpse into the list of notable musical artists hailing from Emilia-Romagna. This list is filled with names associated with a wide variety of occupations and different aspects of the music industry. In fact, among these prominent figures, we not only find Italian singers but also non-singer celebrities and personalities, such as music producers, composers, and musicians, among others.</br>Moreover, to obtain a more comprehensive evaluation of the popularity of these esteemed musical artists, our research extends beyond Emilia-Romagna to encompass other Italian singers. This allows us to make meaningful comparisons and draw broader conclusions.</p>
 <p>In summary, through our investigation on Melody, we invite you to explore the popularity of musical artists, leveraging the wealth of information available on Wikipedia. In particular, by examining Wikipedia page lengths, mentions, and even festival participations, we gain valuable insights into the impact and recognition of these artists.</p>
     </div>
-    <div class="article-image">
-      <img src="https://www.artdictionmagazine.com/wp-content/uploads/2020/02/AdobeStock_287272673-website.jpg" alt="Article Image">
-    </div>
   </div>
 
-  <div class="white-box">
-    <p style="font-family: 'Times New Roman', serif;" ><i>So how do we determine an artist’s grade of popularity through the analysis of objective Wikipedia data?</i></p>
+   <div class="article">
+    <div class="article-text">
+    <p><i>So how do we determine an artist’s grade of popularity through the analysis of objective Wikipedia data?</i></p>
 <p>One indicator of popularity can certainly be the length of their Wikipedia page. The DBpedia database conveniently provides us with the character count of each artist's corresponding Wikipedia page. By comparing these page lengths, we can gain insights into the level of interest and depth of information available to readers.</p>
 <p>In our Melody story, you will discover the identity of the musical artist who emerges with the longest and most comprehensive Wikipedia page, surpassing others by a significant margin. It's fascinating to note that the length of their page is more than double that of the second artist on the list! Will you be surprised by their name, or have you already guessed it?</p>
 <p>Next, we explore another metric to gauge artists' popularity: the number of mentions they receive on Wikipedia. These mentions, often accompanied by hyperlinks, can indicate the extent of their influence and cultural significance. In our Melody story, you can find a ranking of the top 10 artists based on this measure, shedding light on those with the highest number of references on Wikipedia. Interestingly, the most cited Emilian musical artist on other Wikipedia pages is not the same as the one who holds the title for the longest Wikipedia page.</p>
 <p>What else are you waiting for? <a href="https://melody-data.github.io/stories/published_stories/story_1688112792.006553.html"><span style="color:black"><b>Click here</b></span></a> to check out our story on Melody!</p>
+    </div>
   </div>
 
   <div class="section">
