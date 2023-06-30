@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Musical artists from Emilia-Romagna</title>
+  <title>Popularity of musical artists from Emilia-Romagna</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
@@ -141,11 +141,11 @@ footer {
 
 
   <div class="title-box">
-    <h1>Musical artists from Emilia-Romagna</h1>
+    <h1>The Popularity of Musical Artists from Emilia-Romagna</h1>
   </div>
 
-  <h2><em>AUTORI DELLA STORIA</em></h2>
-  <p class="small-italic">UN PO' DI TESTO QUI</p>
+  <h2><em>By Breta Roana & Silvia Bellavite</em></h2>
+  <p class="small-italic">An investigation based on DBpedia </p>
 
 
   <div class="article">
