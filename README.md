@@ -1,7 +1,8 @@
 <html>
 <head>
-  <title>Popularity of musical artists from Emilia-Romagna</title>
+  <title>Popularity of Musical Artists from Emilia-Romagna</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+  
 <style>
 body {
   margin: 0;
@@ -37,6 +38,7 @@ body {
   color: white;
 }
 </style>
+
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
 
@@ -129,12 +131,15 @@ footer {
 }
 
   </style>
+  
 </head>
+
+
 <body>
 
 <div class="topnav">
   <a href="https://uniboITS.github.io/Progetto-ITS/">Home</a>
-  <a class="active" href="https://uniboITS.github.io/First-story/">Musical artists</a>
+  <a class="active" href="https://uniboITS.github.io/First-story/">Musical Artists</a>
   <a href="https://uniboITS.github.io/Second-story/">Rock Music</a>
   <a href="https://uniboITS.github.io/Our-Reports/">Our Reports</a>
 </div>
@@ -144,7 +149,7 @@ footer {
     <h1>The Popularity of Musical Artists from Emilia-Romagna</h1>
   </div>
 
-  <h2><em>By Breta Roana & Silvia Bellavite</em></h2>
+  <h2><em>By Greta Roana & Silvia Bellavite</em></h2>
   <p class="small-italic">An investigation on Emilia-Romagna's most influential musical artists based on DBpedia's data. </p>
 
 
@@ -158,7 +163,7 @@ footer {
   </div>
 
   <div class="white-box">
-    <p style="font-family: 'Times New Roman', serif;" >TESTO TESTO ANCORA TESTO. QUI IL LINK ALLA STORIA SU MELODY (METTETELO ANCHE SOTTO) <a href="https://melody-data.github.io/stories/published_stories/story_1685701970.977932.html"><span style="color:black"><b>click here</b></span></a> to check out our story on Melody! </p>
+    <p style="font-family: 'Times New Roman', serif;" >TESTO TESTO ANCORA TESTO. QUI IL LINK (https://melody-data.github.io/stories/published_stories/story_1688112792.006553.html) ALLA STORIA SU MELODY (METTETELO ANCHE SOTTO) <a href="https://melody-data.github.io/stories/published_stories/story_1685701970.977932.html"><span style="color:black"><b>click here</b></span></a> to check out our story on Melody! </p>
   </div>
 
   <div class="section">
@@ -172,8 +177,9 @@ footer {
 <br>
  
 <footer>
-  <p>names of every author</p>
+  <p>Authors: Greta Roana, Silvia Bellavite</p>
 </footer>
 
 </body>
+
 </html>
