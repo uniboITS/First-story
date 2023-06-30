@@ -177,7 +177,6 @@ footer {
 <p1>To set the stage for a deeper analysis of their popularity, we first take a glimpse into the list of notable musical artists hailing from Emilia-Romagna. This list is filled with names associated with a wide variety of occupations and different aspects of the music industry. In fact, among these prominent figures, we not only find Italian singers but also non-singer celebrities and personalities, such as music producers, composers, and musicians, among others.
 Moreover, to obtain a more comprehensive evaluation of the popularity of these esteemed musical artists, our research extends beyond Emilia-Romagna to encompass other Italian singers. This allows us to make meaningful comparisons and draw broader conclusions.
 </p1>
-  </div>
 <p2>In summary, through our investigation on Melody, we invite you to explore the popularity of musical artists, leveraging the wealth of information available on Wikipedia. In particular, by examining Wikipedia page lengths, mentions, and even festival participations, we gain valuable insights into the impact and recognition of these artists.
 </p2>
     </div>
