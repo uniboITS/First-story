@@ -145,7 +145,7 @@ footer {
   </div>
 
   <h2><em>By Breta Roana & Silvia Bellavite</em></h2>
-  <p class="small-italic">An investigation based on DBpedia </p>
+  <p class="small-italic">An investigation on Emilia-Romagna's most influential musical artists based on DBpedia's data. </p>
 
 
   <div class="article">
